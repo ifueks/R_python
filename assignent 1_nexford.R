@@ -29,8 +29,6 @@ tryCatch({ #Exception handling
 })   
 cat("Execution completed,\n")
 
-
-
 # Print the first few records to verify
 head(worker_detail)
 
